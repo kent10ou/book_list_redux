@@ -8,3 +8,5 @@ const rootReducer = combineReducers({
 });
 
 export default rootReducer;
+
+// reduceres all get tied together with the combineReducers method 
